@@ -1,0 +1,24 @@
+1. php artisan make:model Product -m
+
+2. php artisan migrate
+       $user = new User()
+       $user->name = "Billal"
+       $user->email = "billal@gmail.com"
+       $user-> password = Hash::make('12346')
+ 3. composer dump-autoload (class not found)
+ 4. php artisan make:controller ProductsController -r
+
+ 5. api end point
+     http://127.0.0.1:8000/api/products
+
+
+6. https://swagger.io/
+7. https://github.com/DarkaOnLine/L5-Swagger
+
+php artisan l5-swagger:generate
+
+8. http://127.0.0.1:8000/api/documentation
+
+9. composer require laravel/passport
+10. php artisan make:request LoginRequest
+11. php artisan storage:link
