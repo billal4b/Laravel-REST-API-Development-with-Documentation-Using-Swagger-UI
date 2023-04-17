@@ -22,3 +22,18 @@ php artisan l5-swagger:generate
 9. composer require laravel/passport
 10. php artisan make:request LoginRequest
 11. php artisan storage:link
+
+composer dump-autoload
+
+php artisan config:clear
+php artisan cache:clear
+php artisan view:clear
+php artisan config:clear
+php artisan event:clear
+php artisan route:clear
+
+
+php artisan view:cache
+php artisan config:cache
+php artisan event:cache
+php artisan route:cache

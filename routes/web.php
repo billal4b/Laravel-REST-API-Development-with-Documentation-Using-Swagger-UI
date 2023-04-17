@@ -15,6 +15,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-   dd( Product::all());
+   //dd( Product::all());
     return view('welcome');
 });

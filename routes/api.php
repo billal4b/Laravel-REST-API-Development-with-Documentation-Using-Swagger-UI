@@ -33,6 +33,4 @@ Route::middleware('auth:api')->group(function () {
     Route::apiResource('products', ProductsController::class);
 });
 
-//Route::get('products', [ProductsController::class, 'index']);
-//Route::post('products/create', [ProductsController::class, 'store']);
 
