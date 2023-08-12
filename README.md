@@ -24,6 +24,9 @@ php artisan serve
 Localhost documentation directory
 [http://127.0.0.1:8000/api/documentation ](http://127.0.0.1:8000/api/documentation)
 
+![Swagger-UI Doc](Screenshot1.png)
+
+![Swagger-UI Doc](Screenshot2.png)
 
 ## Contributing
 
