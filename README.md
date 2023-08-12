@@ -31,7 +31,7 @@ Localhost api directory
 Localhost documentation directory
 [http://127.0.0.1:8000/api/documentation ](http://127.0.0.1:8000/api/documentation)
 
-Localhost documentation directory
+Swaggr Documentation
 [Swaggr Documentation ](https://github.com/DarkaOnLine/L5-Swagger)
 
 
