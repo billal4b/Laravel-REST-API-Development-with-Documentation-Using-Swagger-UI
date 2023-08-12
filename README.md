@@ -13,10 +13,17 @@ At first clone this project and run this command
 ```sh
 composer update
 ```
-Update `.env ` file Information
+Update `.env ` file Information and run these commands
 
 ```sh
 php artisan migrate
+```
+```sh
+php artisan serve
+```
+
+```php
+[localhost directory](http://127.0.0.1:8000/api/documentation)
 ```
 
 
