@@ -25,6 +25,9 @@ artisan key:generate
 ```sh
 php artisan serve
 ```
+Localhost api directory
+[http://localhost:8000/api/products ](http://localhost:8000/api/products)
+
 Localhost documentation directory
 [http://127.0.0.1:8000/api/documentation ](http://127.0.0.1:8000/api/documentation)
 
