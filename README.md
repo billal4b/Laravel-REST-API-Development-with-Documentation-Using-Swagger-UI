@@ -21,10 +21,8 @@ php artisan migrate
 ```sh
 php artisan serve
 ```
-
-```php
-[localhost directory](http://127.0.0.1:8000/api/documentation)
-```
+Localhost documentation directory
+[http://127.0.0.1:8000/api/documentation ](http://127.0.0.1:8000/api/documentation)
 
 
 ## Contributing
