@@ -19,6 +19,10 @@ Update `.env ` file Information and run these commands
 php artisan migrate
 ```
 ```sh
+artisan key:generate
+```
+
+```sh
 php artisan serve
 ```
 Localhost documentation directory
